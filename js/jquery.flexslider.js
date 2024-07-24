@@ -884,7 +884,7 @@
         sliderOffset = (reverse) ? slider.count - 1 - slider.currentSlide + slider.cloneOffset : slider.currentSlide + slider.cloneOffset;
         // VERTICAL:
         if (vertical && !carousel) {
-          slider.container.height((slider.count + slider.cloneCount) * 200 + "%").css("position", "absolute").width("100%");
+          slider.container.height("120px").css("position", "absolute");
           setTimeout(function(){
             slider.newSlides.css({"display": "block"});
             slider.doMath();
@@ -896,7 +896,7 @@
           slider.setProps(sliderOffset * slider.computedW, "init");
           setTimeout(function(){
             slider.doMath();
-            slider.newSlides.css({"width": slider.computedW, "float": "left", "display": "block"});
+            slider.newSlides.css({"height": "120px", "float": "left", "display": "block"});
             // SMOOTH HEIGHT:
             if (slider.vars.smoothHeight) methods.smoothHeight();
           }, (type === "init") ? 100 : 0);
@@ -1059,7 +1059,7 @@
     smoothHeight: false,            //{NEW} Boolean: Allow height of the slider to animate smoothly in horizontal mode
     startAt: 0,                     //Integer: The slide that the slider should start on. Array notation (0 = first slide)
     slideshow: true,                //Boolean: Animate slider automatically
-    slideshowSpeed: 7000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
+    slideshowSpeed: 5500,           //Integer: Set the speed of the slideshow cycling, in milliseconds
     animationSpeed: 600,            //Integer: Set the speed of animations, in milliseconds
     initDelay: 0,                   //{NEW} Integer: Set an initialization delay, in milliseconds
     randomize: false,               //Boolean: Randomize slide order
