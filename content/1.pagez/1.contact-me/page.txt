@@ -1,0 +1,6 @@
+title: Contato
+-
+content:
+Você me encontra no: <refotografia@gmail.com>
+
+Algumas coisas que eu escrevo sobre processos e idéias estão no <http://refotografia.wordpress.com>
