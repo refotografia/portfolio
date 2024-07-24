@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Digital Artesanal, Guilherme Maranhão's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col four">
+				<a href="./">Guilherme Maranhão</a> / artista
+			</h1>
+			<em class="col three"><p><a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;r&#101;&#x66;&#111;&#x74;&#x6f;&#103;&#x72;a&#102;&#x69;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;m">r&#101;&#x66;&#111;&#x74;&#x6f;&#103;&#x72;a&#102;&#x69;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;m</a></p>
+</em>
+			<hr>
+			<div id="navigation" class="col three">
+<ul>
+ <li><em>Trabalhos</em></li>
+    <li>
+  	<a href="./?/projects/patagonia/">Patagônia</a>
+  </li>
+    <li>
+  	<a href="./?/projects/transe/">Transe</a>
+  </li>
+    <li>
+  	<a href="./?/projects/ser-cor-ser-rio/">Ser Cor Ser Rio</a>
+  </li>
+    <li>
+  	<a href="./?/projects/2011/">2011</a>
+  </li>
+    <li>
+  	<a href="./?/projects/travessia/">Travessia</a>
+  </li>
+    <li>
+  	<a href="./?/projects/amazonia/">Amazônia</a>
+  </li>
+    <li>
+  	<a href="./?/projects/maresias/">Maresias</a>
+  </li>
+    <li>
+  	<a href="./?/projects/corpo/">Meu Corpo</a>
+  </li>
+    <li>
+  	<a href="./?/projects/interior/">Interior</a>
+  </li>
+    <li>
+  	<a href="./?/projects/pluracidades/">Pluracidades</a>
+  </li>
+    <li>
+  	<a href="./?/projects/plural/">Plural</a>
+  </li>
+    <li>
+  	<a href="./?/projects/vzor/">Vzor</a>
+  </li>
+    <li>
+  	<a href="./?/projects/unicos/">Únicos</a>
+  </li>
+    <li>
+  	<a href="./?/projects/casa-da-vo/">Casa da Vó</a>
+  </li>
+   <li><em>Insights</em></li>
+    <li>
+  	<a href="./?/pagez/about/">About</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/janela-cotidiana/">Janela Cotidiana</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/digital-artesanal/">Digital Artesanal</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/filmes-vencidos/">Filmes Vencidos</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/scanners-velhos/">Scanners Velhos</a>
+  </li>
+    <li>
+  	<a href="./?/pagez/contact-me/">Contato</a>
+  </li>
+  
+</ul>
+</div>
+			<div id="content" class="col eight">
+				<p class="date col one">&para;</p>
+				<div class="description col six">
+					<h2><a href="./">Digital Artesanal</a></h2>
+					<div id="media">
+      	<div class="image">
+		<img src="./content/1.pagez/4.digital-artesanal/01.jpg" alt="Arquivo Negativos" width="600" height="215">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+					<p>Para o ensaio Pluracidades, Eder Chiodetto preparou o seguinte texto:</p>
+
+<p>“O olho de um scanner abandonado não está cego. Ele apenas deixou de olhar o mundo de forma obediente conforme programação formulada pela indústria. Um equipamento quebrado se transforma num marginal dentro da sociedade de consumo. A esse olhar marginal da máquina, Maranhão sobrepõe uma atitude libertária, subversiva de reinventar o seu ponto de vista sobre o visível.
+Ao recuperar esse olho eletrônico do lixo das lojas de sucatas e reinseri-lo noutra função, o artista ao mesmo tempo tira do automático a máquina, a função do fotógrafo e, por fim, a percepção de quem observa tais imagens.
+Este circuito criado por Maranhão permite que o acaso também concorra na interpretação da paisagem conferindo-lhe uma visualidade que não tem como referência a hegemonia do olhar humano e tampouco siga a bula do programa elaborado pelos engenheiros, que transforma o mundo numa mimese pasteurizada e hegemônica.
+“Pluracidades”, gestada à margem da automaticidade do olhar da indústria eletrônica e sob o ponto de vista desse fotógrafo desobediente das regras, faz emergir no nosso olhar robotizado a paisagem reinventada de uma cidade errática, a cidade de Maranhão!
+Sem referências geográficas, essa estranha urbe se redesenha em geometrias lúdicas, em rastros luminosos que flagram a passagem do tempo. E, assim, a vida se precipita, linha por linha, num encontro errático e poético de cores, formas e associações inesperadas, nos transportando para dimensões inesperadas do olhar.”</p>
+
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Guilherme Maranhão 2017 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<script src="./public/docs/js/navigation.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
+<!-- Stacey(2.3.0): f09f6db38f5ab14fbed512f88a031873 -->

@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Trabalhos, Guilherme Maranhão's Portfolio </title>
+    <link rel="alternate" type="application/atom+xml" href="./?/feed/">
+    <link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+  </head>
+  <body>
+    <div id="container">
+      <h1 class="col three">
+        <a href="./">Guilherme Maranhão</a>
+        <strong>artista</strong>
+      </h1>
+      <em class="col three"><p><a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;r&#101;&#x66;&#111;&#x74;&#x6f;&#103;&#x72;a&#102;&#x69;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;m">r&#101;&#x66;&#111;&#x74;&#x6f;&#103;&#x72;a&#102;&#x69;&#97;&#x40;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#x6f;m</a></p>
+</em>
+      <hr>
+      <ul id="navigation" class="col two">
+      <li>
+      <a href="./?/projects/">Trabalhos</a>
+        <ol class="children">
+      <li>
+      <a href="./?/projects/plural/">Plural</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/casa-da-vo/">Casa Da Vo</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/travessia/">Travessia</a>
+      
+    </li>
+      <li>
+      <a href="./?/projects/pluracidades/">Pluracidades</a>
+      
+    </li>
+  
+  </ol>
+
+    </li>
+      <li>
+      <a href="./?/about/">About</a>
+      
+    </li>
+      <li>
+      <a href="./?/filmes-vencidos/">Filmes Vencidos</a>
+      
+    </li>
+      <li>
+      <a href="./?/contact-me/">Contato</a>
+      
+    </li>
+  
+</ul>
+      <div id="content" class="col eight">
+          <ul class="projects">
+          <li class="col seven">
+        <p class="date col one">2000~2006</p>
+        <h2 class="col five">
+          <img src="./content/5.projects/4.plural/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="./?/projects/plural/">Plural</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">1995~2002</p>
+        <h2 class="col five">
+          <img src="./content/5.projects/3.casa-da-vo/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="./?/projects/casa-da-vo/">Casa da Vó</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2010~2015</p>
+        <h2 class="col five">
+          <img src="./content/5.projects/2.travessia/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="./?/projects/travessia/">Travessia</a>
+        </h2>
+      </li>
+          <li class="col seven">
+        <p class="date col one">2003~2014</p>
+        <h2 class="col five">
+          <img src="./content/5.projects/1.pluracidades/thumb.jpg" class="project-thumb" alt=""> 
+          <a href="./?/projects/pluracidades/">Pluracidades</a>
+        </h2>
+      </li>
+    
+  </ul>
+
+      </div>
+      <hr>
+      <p id="footer" class="col six">&copy; Copyright Guilherme Maranhão 2017 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+        <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
+    </div>
+  </body>
+</html>
+<!-- Stacey(2.3.0): 22cc317f32c3dd8c2fd91e56059e08f8 -->

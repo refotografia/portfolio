@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Guilherme Maranhão's Portfolio Feed</title>
+  <subtitle>artista</subtitle>
+  <link href="http://www.guilhermemaranhao.art.br/?/feed/" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://www.guilhermemaranhao.art.br/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2017-06-29T11:17:47+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Guilherme Maranhão</name>
+    <uri>http://www.guilhermemaranhao.art.br</uri>
+  </author>
+
+  <id>tag:www.guilhermemaranhao.art.br,2017:/?/feed/</id>
+  <rights>©2017 Guilherme Maranhão</rights>
+    <entry>
+   <title>Trabalhos</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/</id>
+   <updated>2017-06-28T01:39:10+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Patagônia</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/patagonia/</id>
+   <updated>2017-06-29T07:05:41+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/patagonia/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/14.patagonia/15.jpg" alt="15." />
+  <img src="./content/8.projects/14.patagonia/14.jpg" alt="14." />
+  <img src="./content/8.projects/14.patagonia/13.jpg" alt="13." />
+  <img src="./content/8.projects/14.patagonia/12.jpg" alt="12." />
+  <img src="./content/8.projects/14.patagonia/11.jpg" alt="11." />
+  <img src="./content/8.projects/14.patagonia/10.jpg" alt="10." />
+  <img src="./content/8.projects/14.patagonia/09.jpg" alt="09." />
+  <img src="./content/8.projects/14.patagonia/08.jpg" alt="08." />
+  <img src="./content/8.projects/14.patagonia/07.jpg" alt="07." />
+  <img src="./content/8.projects/14.patagonia/06.jpg" alt="06." />
+  <img src="./content/8.projects/14.patagonia/05.jpg" alt="05." />
+  <img src="./content/8.projects/14.patagonia/04.jpg" alt="04." />
+  <img src="./content/8.projects/14.patagonia/03.jpg" alt="03." />
+  <img src="./content/8.projects/14.patagonia/02.jpg" alt="02." />
+  <img src="./content/8.projects/14.patagonia/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Transe</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/transe/</id>
+   <updated>2017-06-28T05:31:03+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/transe/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/13.transe/08.jpg" alt="08." />
+  <img src="./content/8.projects/13.transe/07.jpg" alt="07." />
+  <img src="./content/8.projects/13.transe/06.jpg" alt="06." />
+  <img src="./content/8.projects/13.transe/05.jpg" alt="05." />
+  <img src="./content/8.projects/13.transe/04.jpg" alt="04." />
+  <img src="./content/8.projects/13.transe/03.jpg" alt="03." />
+  <img src="./content/8.projects/13.transe/02.jpg" alt="02." />
+  <img src="./content/8.projects/13.transe/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Ser Cor Ser Rio</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/ser-cor-ser-rio/</id>
+   <updated>2017-06-28T05:30:50+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/ser-cor-ser-rio/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/12.ser-cor-ser-rio/09.jpg" alt="09." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/08.jpg" alt="08." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/07.jpg" alt="07." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/06.jpg" alt="06." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/05.jpg" alt="05." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/04.jpg" alt="04." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/03.jpg" alt="03." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/02.jpg" alt="02." />
+  <img src="./content/8.projects/12.ser-cor-ser-rio/01.jpg" alt="01." />
+
+          
+            <p>coletiva no CLIF Curitiba em 2013.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>2011</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/2011/</id>
+   <updated>2017-06-28T05:30:36+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/2011/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/11.2011/13.jpg" alt="13." />
+  <img src="./content/8.projects/11.2011/12.jpg" alt="12." />
+  <img src="./content/8.projects/11.2011/11.jpg" alt="11." />
+  <img src="./content/8.projects/11.2011/10.jpg" alt="10." />
+  <img src="./content/8.projects/11.2011/09.jpg" alt="09." />
+  <img src="./content/8.projects/11.2011/08.jpg" alt="08." />
+  <img src="./content/8.projects/11.2011/07.jpg" alt="07." />
+  <img src="./content/8.projects/11.2011/06.jpg" alt="06." />
+  <img src="./content/8.projects/11.2011/05.jpg" alt="05." />
+  <img src="./content/8.projects/11.2011/04.jpg" alt="04." />
+  <img src="./content/8.projects/11.2011/03.jpg" alt="03." />
+  <img src="./content/8.projects/11.2011/02.jpg" alt="02." />
+  <img src="./content/8.projects/11.2011/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Travessia</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/travessia/</id>
+   <updated>2017-06-28T05:31:13+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/travessia/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/10.travessia/06.jpg" alt="06." />
+  <img src="./content/8.projects/10.travessia/05.jpg" alt="05." />
+  <img src="./content/8.projects/10.travessia/04.jpg" alt="04." />
+  <img src="./content/8.projects/10.travessia/03.jpg" alt="03." />
+  <img src="./content/8.projects/10.travessia/02.jpg" alt="02." />
+  <img src="./content/8.projects/10.travessia/01.jpg" alt="01." />
+
+          
+            <p>Vencedor Prêmio Marc Ferrez Funarte 2014.
+Individual na Casa da Imagem em 2015.
+Livro publicado em 2015.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Amazônia</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/amazonia/</id>
+   <updated>2017-06-28T05:30:03+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/amazonia/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/9.amazonia/10.jpg" alt="10." />
+  <img src="./content/8.projects/9.amazonia/09.jpg" alt="09." />
+  <img src="./content/8.projects/9.amazonia/08.jpg" alt="08." />
+  <img src="./content/8.projects/9.amazonia/07.jpg" alt="07." />
+  <img src="./content/8.projects/9.amazonia/06.jpg" alt="06." />
+  <img src="./content/8.projects/9.amazonia/05.jpg" alt="05." />
+  <img src="./content/8.projects/9.amazonia/04.jpg" alt="04." />
+  <img src="./content/8.projects/9.amazonia/03.jpg" alt="03." />
+  <img src="./content/8.projects/9.amazonia/02.jpg" alt="02." />
+  <img src="./content/8.projects/9.amazonia/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Maresias</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/maresias/</id>
+   <updated>2017-06-28T05:29:50+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/maresias/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/8.maresias/04.jpg" alt="04." />
+  <img src="./content/8.projects/8.maresias/03.jpg" alt="03." />
+  <img src="./content/8.projects/8.maresias/02.jpg" alt="02." />
+  <img src="./content/8.projects/8.maresias/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Meu Corpo</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/corpo/</id>
+   <updated>2017-06-28T05:30:18+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/corpo/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/7.corpo/13.jpg" alt="13." />
+  <img src="./content/8.projects/7.corpo/12.jpg" alt="12." />
+  <img src="./content/8.projects/7.corpo/11.jpg" alt="11." />
+  <img src="./content/8.projects/7.corpo/10.jpg" alt="10." />
+  <img src="./content/8.projects/7.corpo/09.jpg" alt="09." />
+  <img src="./content/8.projects/7.corpo/08.jpg" alt="08." />
+  <img src="./content/8.projects/7.corpo/07.jpg" alt="07." />
+  <img src="./content/8.projects/7.corpo/06.jpg" alt="06." />
+  <img src="./content/8.projects/7.corpo/05.jpg" alt="05." />
+  <img src="./content/8.projects/7.corpo/04.jpg" alt="04." />
+  <img src="./content/8.projects/7.corpo/03.jpg" alt="03." />
+  <img src="./content/8.projects/7.corpo/02.jpg" alt="02." />
+  <img src="./content/8.projects/7.corpo/01.jpg" alt="01." />
+
+          
+            <p>Individual no Itaú Cultural em 2005.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Interior</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/interior/</id>
+   <updated>2017-06-28T05:29:40+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/interior/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/6.interior/09.jpg" alt="09." />
+  <img src="./content/8.projects/6.interior/08.jpg" alt="08." />
+  <img src="./content/8.projects/6.interior/07.jpg" alt="07." />
+  <img src="./content/8.projects/6.interior/06.jpg" alt="06." />
+  <img src="./content/8.projects/6.interior/05.jpg" alt="05." />
+  <img src="./content/8.projects/6.interior/04.jpg" alt="04." />
+  <img src="./content/8.projects/6.interior/03.jpg" alt="03." />
+  <img src="./content/8.projects/6.interior/02.jpg" alt="02." />
+  <img src="./content/8.projects/6.interior/01.jpg" alt="01." />
+
+          
+            
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Pluracidades</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/pluracidades/</id>
+   <updated>2017-06-28T05:29:28+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/pluracidades/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/5.pluracidades/08.jpg" alt="08." />
+  <img src="./content/8.projects/5.pluracidades/07.jpg" alt="07." />
+  <img src="./content/8.projects/5.pluracidades/06.jpg" alt="06." />
+  <img src="./content/8.projects/5.pluracidades/05.jpg" alt="05." />
+  <img src="./content/8.projects/5.pluracidades/04.jpg" alt="04." />
+  <img src="./content/8.projects/5.pluracidades/03.jpg" alt="03." />
+  <img src="./content/8.projects/5.pluracidades/02.jpg" alt="02." />
+  <img src="./content/8.projects/5.pluracidades/01.jpg" alt="01." />
+
+          
+            <p>Individual no Ateliê da Imagem em 2008.
+Vencedor Prêmio Porto Seguro em 2007 (Pesquisas Contemporâneas)
+Exposição “Geração 00” no Sesc Belenzinho em 2011.
+Exposição “Elogio da Vertigem” na Maison Européenne de la Photographie em 2012.
+Exposição Cidade Gráfica no Itaú Cultural em 2014.
+Aquisição pelo MAM-SP em 2008 (Clube dos Colecionadores de Fotografia) e aquisição pela Coleção Itaú em 2011.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Plural</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/plural/</id>
+   <updated>2017-06-28T05:29:14+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/plural/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/4.plural/06.jpg" alt="06." />
+  <img src="./content/8.projects/4.plural/05.jpg" alt="05." />
+  <img src="./content/8.projects/4.plural/04.jpg" alt="04." />
+  <img src="./content/8.projects/4.plural/03.jpg" alt="03." />
+  <img src="./content/8.projects/4.plural/02.jpg" alt="02." />
+  <img src="./content/8.projects/4.plural/01.jpg" alt="01." />
+
+          
+            <p>Individual na Gallery 44 em Toronto em 2003.
+Aquisição MAM-SP (III e VII) em 2006.
+Exposição coletiva “Desidentidad” no IVAM em Valencia, Espanha, em 2007.
+Exposição Galeria Olido em 2008.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Vzor</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/vzor/</id>
+   <updated>2017-06-28T05:31:22+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/vzor/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/3.vzor/06.jpg" alt="06." />
+  <img src="./content/8.projects/3.vzor/05.jpg" alt="05." />
+  <img src="./content/8.projects/3.vzor/04.jpg" alt="04." />
+  <img src="./content/8.projects/3.vzor/03.jpg" alt="03." />
+  <img src="./content/8.projects/3.vzor/02.jpg" alt="02." />
+  <img src="./content/8.projects/3.vzor/01.jpg" alt="01." />
+
+          
+            <p>Exposição coletiva no Ateliê Fidalga, 2016</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Únicos</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/unicos/</id>
+   <updated>2017-06-28T05:29:06+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/unicos/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/2.unicos/19.jpg" alt="19." />
+  <img src="./content/8.projects/2.unicos/18.jpg" alt="18." />
+  <img src="./content/8.projects/2.unicos/17.jpg" alt="17." />
+  <img src="./content/8.projects/2.unicos/16.jpg" alt="16." />
+  <img src="./content/8.projects/2.unicos/15.jpg" alt="15." />
+  <img src="./content/8.projects/2.unicos/14.jpg" alt="14." />
+  <img src="./content/8.projects/2.unicos/13.jpg" alt="13." />
+  <img src="./content/8.projects/2.unicos/12.jpg" alt="12." />
+  <img src="./content/8.projects/2.unicos/11.jpg" alt="11." />
+  <img src="./content/8.projects/2.unicos/10.jpg" alt="10." />
+  <img src="./content/8.projects/2.unicos/09.jpg" alt="09." />
+  <img src="./content/8.projects/2.unicos/08.jpg" alt="08." />
+  <img src="./content/8.projects/2.unicos/07.jpg" alt="07." />
+  <img src="./content/8.projects/2.unicos/06.jpg" alt="06." />
+  <img src="./content/8.projects/2.unicos/05.jpg" alt="05." />
+  <img src="./content/8.projects/2.unicos/04.jpg" alt="04." />
+  <img src="./content/8.projects/2.unicos/03.jpg" alt="03." />
+  <img src="./content/8.projects/2.unicos/02.jpg" alt="02." />
+  <img src="./content/8.projects/2.unicos/01.jpg" alt="01." />
+
+          
+            <p>Tiragem 1/1</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Casa da Vó</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/projects/casa-da-vo/</id>
+   <updated>2017-06-28T01:39:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/projects/casa-da-vo/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/8.projects/1.casa-da-vo/11.JPG" alt="11." />
+  <img src="./content/8.projects/1.casa-da-vo/10.JPG" alt="10." />
+  <img src="./content/8.projects/1.casa-da-vo/09.JPG" alt="09." />
+  <img src="./content/8.projects/1.casa-da-vo/08.JPG" alt="08." />
+  <img src="./content/8.projects/1.casa-da-vo/07.JPG" alt="07." />
+  <img src="./content/8.projects/1.casa-da-vo/06.JPG" alt="06." />
+  <img src="./content/8.projects/1.casa-da-vo/05.JPG" alt="05." />
+  <img src="./content/8.projects/1.casa-da-vo/04.JPG" alt="04." />
+  <img src="./content/8.projects/1.casa-da-vo/03.JPG" alt="03." />
+  <img src="./content/8.projects/1.casa-da-vo/02.JPG" alt="02." />
+  <img src="./content/8.projects/1.casa-da-vo/01.JPG" alt="01." />
+
+          
+            <p>Selecionado pelo Programa de Exposições do CCSP em 1996.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>About</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/about/</id>
+   <updated>2017-06-29T11:17:47+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Guilherme Maranhão centrou sua pesquisa na busca de imagens fotográficas que exploram o acaso por meio de intervenções em seu processo de formação e da subversão das ferramentas produzidas pela indústria. Realizou exposições individuais no Itaú Cultural e na Casa da Imagem, em São Paulo, no Ateliê da Imagem, no Rio de Janeiro e na Gallery 44, em Toronto. Entre outras exposições coletivas, participou da Desidentidad no IVAM, em Valencia, Geração 00, no Sesc Belenzinho e Elogio da Vertigem, na MEP, Paris. Recebeu os prêmios Porto Seguro e Marc Ferrez.</p>
+
+<p>Exposições individuais</p>
+
+<p>“Osasco”, USP - Ribeirão Preto, 1999.</p>
+
+<p>“Plural”, Gallery 44, Toronto, 2003.</p>
+
+<p>“Plurais”, Espaço Viga, São Paulo, 2003.</p>
+
+<p>“Meu Corpo”, Itaú Cultural, 2005.</p>
+
+<p>“Pluracidades”, Ateliê da Imagem, 2008.</p>
+
+<p>“Travessia”, Casa da Imagem, 2015.</p>
+
+<p>Exposições coletivas</p>
+
+<p>“A Casa da Vó”, Centro Cultural São Paulo, São Paulo, 1996.</p>
+
+<p>“Osasco”, Centro Cultural São Paulo, São Paulo, 1998.</p>
+
+<p>“Lunar Exploration”, Kitchener Waterloo Art Gallery, 2003.</p>
+
+<p>“Plural”, Espaço Porto Seguro Seguros, 2005.</p>
+
+<p>“Desidentidad”, IVAM, Valencia, Espanha, 2006/7.</p>
+
+<p>“Paisagens Transitórias”, Prêmio Porto Seguro 2007.</p>
+
+<p>"Retrato em Questão - a Imagem Brasileira", Prêmio Porto Seguro 2008.</p>
+
+<p>"Photoimpressões", Espaço Coleção Particular, 2010.</p>
+
+<p>"10 Anos do Clube de Colecionadores de Fotografia do MAM-SP", MAM-SP, 2010.</p>
+
+<p>“Geração 00”, Sesc Belenzinho, 2011.</p>
+
+<p>"Elogio da Vertigem", Maison Européenne de la Photographie, 2012.</p>
+
+<p>“Cidade Gráfica”, Itaú Cultural, 2014.</p>
+
+<p>“Arte Londrina 3”, DAP, 2015.</p>
+
+<p>Performances</p>
+
+<p>“Lambe-Lambe QuemVocêPensaQueÉ?”, com Penna Prearo, Mostra Sesc de Artes 2012.</p>
+
+<p>“Lambe-Lambe QuemVocêPensaQueÉ?”, com Penna Prearo, Circuito Sesc de Artes 2013.</p>
+
+<p>Imagens em Coleções</p>
+
+<p>“Plural III” e “Plural VII” adquiridas pelo MAM-SP em 2006.</p>
+
+<p>Sem título, da série Pluracidades, Coleção Porto Seguro em 2007.</p>
+
+<p>Sem título 1, 2, 3 e 4, da série Pluracidades, adquiridas pelo MAM-SP em 2008 (Clube da Fotografia).</p>
+
+<p>Sem título 2-14, da série Pluracidades, adquirida pela Coleção Itaú em 2011.</p>
+
+<p>Prêmios</p>
+
+<p>Vencedor do Prêmio Porto Seguro de Fotografia 2007 (Pesquisas Contemporâneas), com “Pluracidades”.</p>
+
+<p>Vencedor do Prêmio Marc Ferrez Funarte 2014, com “Travessia”.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Janela Cotidiana</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/janela-cotidiana/</id>
+   <updated>2017-06-28T05:31:44+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/janela-cotidiana/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.janela-cotidiana/01.jpg" alt="01." />
+
+          
+            <p>Para o ensaio Vzor, Juan José Santos preparou o seguinte texto:</p>
+
+<p>“En el año 1999 tomó la primera fotografía de lo que se veía desde la ventana de su
+casa. Un cielo recortado por los tejados de edificios del barrio. La “geopolítica
+doméstica” favoreció el hecho de que Guilherme Maranhao tenga cientos de fotografías del cielo desde el mismo encuadre. A un lado de esa ventana que le sirve de marco hay un sofá, y al otro, una poltrona.
+Me recordó el trabajo del fotógrafo checo Josef Sudek. Durante años, fotografió lo que
+ocurría al otro lado de una de las ventanas de su casa, y generaba escenas en el alférez.
+Nada extraordinario. Fuera de la ventana, una nevada ocasional, la caída de las hojas
+en otoño. En el interior, bodegones simples, con frutas, o un vaso con agua. La simpleza de lo cotidiano, y, a la vez, la rotundidad de su existencia.
+En el caso de Maranhao, ese acto repetitivo también evoca la grandiosidad de lo diario.
+Hemos seleccionado para esta exposición seis fotografías. Las seis, presentan un paisaje urbano en Sao Paulo decorado –o amenazado- con unas formaciones nubosas indicativas de tormenta. En una de ellas, es visible un rayo, que atraviesa el cielo e irrumpe tras los edificios de la ciudad. Uno no puede afirmar si la tormenta viene, o se va.
+Ha titulado a su serie fotográfica, también inédita hasta ahora, “Vzor”. Vzor era la
+ventana que, por medio del reflejo del sol a través de un sistema de espejos, permitió
+al austronauta Yuri Gagarin ver el planeta Tierra desde el Vostok 1. Mirando a través
+del Vzor, Gagarin dijo su famosa frase “La Tierra es azul”. Aunque no quedó registrada
+como la anterior, también afirmó, “Aquí no veo a ningún dios”.
+Tenemos al astronauta Guilhemer Maranhao mirando a través del Vzor de su casa, en
+permanente estado de alerta, la tormenta ir y venir. Quizás a la espera de que el rayo
+que ilumina la escena caiga allí, en su casa, en su salón, sobre su cabeza. Y se convierta. O no.”</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Digital Artesanal</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/digital-artesanal/</id>
+   <updated>2017-06-28T05:31:38+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/digital-artesanal/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/5.digital-artesanal/01.jpg" alt="01." />
+
+          
+            <p>Para o ensaio Pluracidades, Eder Chiodetto preparou o seguinte texto:</p>
+
+<p>“O olho de um scanner abandonado não está cego. Ele apenas deixou de olhar o mundo de forma obediente conforme programação formulada pela indústria. Um equipamento quebrado se transforma num marginal dentro da sociedade de consumo. A esse olhar marginal da máquina, Maranhão sobrepõe uma atitude libertária, subversiva de reinventar o seu ponto de vista sobre o visível.
+Ao recuperar esse olho eletrônico do lixo das lojas de sucatas e reinseri-lo noutra função, o artista ao mesmo tempo tira do automático a máquina, a função do fotógrafo e, por fim, a percepção de quem observa tais imagens.
+Este circuito criado por Maranhão permite que o acaso também concorra na interpretação da paisagem conferindo-lhe uma visualidade que não tem como referência a hegemonia do olhar humano e tampouco siga a bula do programa elaborado pelos engenheiros, que transforma o mundo numa mimese pasteurizada e hegemônica.
+“Pluracidades”, gestada à margem da automaticidade do olhar da indústria eletrônica e sob o ponto de vista desse fotógrafo desobediente das regras, faz emergir no nosso olhar robotizado a paisagem reinventada de uma cidade errática, a cidade de Maranhão!
+Sem referências geográficas, essa estranha urbe se redesenha em geometrias lúdicas, em rastros luminosos que flagram a passagem do tempo. E, assim, a vida se precipita, linha por linha, num encontro errático e poético de cores, formas e associações inesperadas, nos transportando para dimensões inesperadas do olhar.”</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Filmes Vencidos</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/filmes-vencidos/</id>
+   <updated>2017-06-28T05:31:32+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/filmes-vencidos/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.filmes-vencidos/01.jpg" alt="01." />
+
+          
+            <p>Para o livro Travessia, Ronaldo Entler preparou o seguinte texto:</p>
+
+<p>“Foi preciso uma longa gestação, cerca de vinte anos, para que uma película virgem se revelasse grávida justamente do tempo. Guilherme Maranhão, que nesses mesmos vinte anos desenvolveu um gosto particular por técnicas impuras, logo percebeu que ali já havia uma imagem latente. Não teve pressa em fazê-la aparecer. Mais do que se apropriar, deixou que essa imagem atravessasse sua história.</p>
+
+<p>Partiu em busca de lugares que pudessem sediar esse encontro. Com essa película em sua câmera, percorreu estradas do mesmo modo que percorre a técnica: estudando profundamente os mapas não para definir um ponto de chegada, mas para descobrir a parte do território que permanece movediça. Quanto mais domina seus instrumentos, mais se abre ao desvio. Coletou paisagens pelo caminho, algumas um tanto banais, resultado de um olhar contagiado pela mesma disponibilidade serena daquele filme esquecido.</p>
+
+<p>Usar um filme vencido - assim como desmontar e remontar câmeras - não é se voltar contra a técnica. É libertá-la de seu uso dogmático, é fazer reaparecer aquilo que foi recalcado no uso dos dispositivos: uma natureza complexa da qual a ciência preferiu reter apenas as regularidades, um corpo desejante do qual muitos instrumentos um dia nasceram como extensões e, ainda, o imaginário que reinventa todas as funcionalidades e faz as engrenagens dos aparelhos operarem sempre com jogo. Menos do que iluminar o aparelho, trata-se de permitir a manifestação de suas regiões mais obscuras, aquelas que continuam trabalhando quando tudo já foi decidido e os mecanismos parecem estar em repouso. O que foi recalcado da técnica só se torna imagem como velatura.</p>
+
+<p>O que significa dizer que um filme está vencido? Que ele não está apto a gerar uma imagem? Ao contrário: ele se tornou sensível demais para responder a razão que constrange os potenciais da técnica. O que se esgotam é apenas a responsabilidade e a autoridade da indústria sobre um produto: sem contrato, a matéria volta à sua condição de rebeldia. A palavra vencido esconde a arrogância de uma civilização que só consegue pensar a cultura como derrota da natureza: ou ela se comporta conforme o acordo que lhe é imposto ou é declarada obsoleta.</p>
+
+<p>Com seu apreço pelas ruínas, o procedimento do artista se assemelha ao de um arqueólogo amador que usa as próprias fantasias como motor de suas descobertas. As imagens que Guilherme Maranhão capta têm sua força própria, mas funcionam também como ferramentas de escavação: são elas que trazem à superfície as marcas que a película acumulou em sua espessura. Dessa emulsão escavada em demasia, restam imagens escuras, mas muito bem ajustadas à tensão entre as paisagens e as manchas que nelas se sobrepõem. Às vezes, elas simplesmente se fundem, às vezes, uma ou outra reivindica sua prioridade.</p>
+
+<p>As manchas já estavam lá, ocupando também os espaços que a futura exposição do filme definiria como bordas. Em respeito a essa preexistência, Guilherme Maranhão deixa muitas vezes que as manchas decidam o enquadramento das imagens. Em retribuição, elas emprestam suas texturas e desenhos às cenas captadas pelo artista e inventam passagens que ligam tomadas distintas.</p>
+
+<p>Encontramos aqui uma matéria que se mostrou sensível a diferentes formas de manifestação do tempo: à espera paciente de uma película que demorou a encontrar a luz, a um gesto de criação maturado na desmontagem de tantos aparelhos, a um olhar que permanece irrequieto diante de todo o saber consolidado, a esse longo processo de revelação de uma imagem que, mesmo impressa, não cessa de se construir.”</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Scanners Velhos</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/scanners-velhos/</id>
+   <updated>2017-06-28T01:38:49+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/scanners-velhos/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/3.scanners-velhos/01.jpg" alt="01." />
+
+          
+            <p>Para a exposição Meu Corpo, Helouise Costa preparou o seguinte texto:</p>
+
+<p>“Copiadas em papel fotográfico, as imagens de Guilherme Maranhão se assemelham a fotos tomadas através de lentes deformadoras. Puro engano. Não estamos diante de fotografias, no sentido estrito do termo. A série Meu Corpo reúne imagens provenientes dos limites incertos entre diferentes aparatos tecnológicos e propõe uma nova relação entre espaço, tempo, matéria e memória.</p>
+
+<p>O mundo de Guilherme são as obras, os desperdícios e as sucatas de nossa tecnologia, que quanto mais se diz avançar mais deixa atrás de si os rastros da obsolescência. Ele produz suas imagens por meio dos aparelhos híbridos que inventa. Após desmontar um scanner, extrai seu sensor interno, que ao ser acoplado a uma lente de máquina fotográfica e a um computador passa a funcionar como uma câmara digital. Tal equipamento permite uma espécie de escaneamento do mundo visível, que se realiza quando é movimentado, às cegas, por seu operador.</p>
+
+<p>Aqui cabe esclarecer o conceito de varredura. Como explica Guilherme, o scanner varre o que se coloca diante dele, linha por linha, a vai armazenando essas linhas, lado a lado, na memória do computador. Materializadas como fatias de tempo condensado, as linhas sucedem em continuidade, formando panoramas cuja amplitude fica limitada à extensão do braço de Guilherme e ao ambiente restrito de seu quarto. O resultado são imagens deformadas em função das dicotomias do procedimento. Ao encenar para si mesmo a própria intimidade, Maranhão submete a produção das imagens à ritmação de seu solitário gesto de auto-erotismo.</p>
+
+<p>Essas imagens não são representações do mundo, mas recriações, segundo a lógica informática corrompida pelas interferências que Guilherme realiza no cerne dos equipamentos e de seus programas. Sua atitude pode ser interpretada como base no pensamento de Vilém Flusser, para quem a única possibilidade de criação por meio dos aparatos tecnológicos residiria justamente na subversão dos aparelhos, que descomprometidos de suas funções originais ficariam abertos ao exercício pleno da liberdade artística. Este é o caminho que, definitivamente, Guilherme não teme percorrer.”</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Contato</title>
+   <id>tag:www.guilhermemaranhao.art.br,2017:/?/contact-me/</id>
+   <updated>2017-06-28T01:38:45+10:00</updated>
+   <link rel="alternate" type="text/html" href="http://www.guilhermemaranhao.art.br/?/contact-me/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/2.contact-me/01.jpg" alt="01." />
+
+          
+            <p>Você me encontra no: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;r&#38;#101;&#38;#x66;&#38;#111;&#38;#x74;&#38;#x6f;&#38;#103;&#38;#x72;a&#38;#102;&#38;#x69;&#38;#97;&#38;#x40;&#38;#x67;&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x2e;&#38;#99;&#38;#x6f;m">r&#38;#101;&#38;#x66;&#38;#111;&#38;#x74;&#38;#x6f;&#38;#103;&#38;#x72;a&#38;#102;&#38;#x69;&#38;#97;&#38;#x40;&#38;#x67;&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x2e;&#38;#99;&#38;#x6f;m</a>, algumas coisas que eu escrevo sobre processos e idéias estão no <a href="http://refotografia.wordpress.com">http://refotografia.wordpress.com</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.3.0): 089232deff865a6bd1997c2256d0c8ff -->
