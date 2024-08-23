@@ -6,9 +6,9 @@ body {
 .image-container {
     width: 100%;
     height: 100vh;
-    background-size: contain;
+    background-size: contain; /* cover fica bacana, mas contain funciona melhor em mobile */
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; /* omitir isso deixa muito legal em desktop, mas em mobile podem aparecer até 6 imagens na telas ao mesmo tempo */
     transition: background-image 0.5s ease-in-out;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .skip {
-    font-family: "Dosis", sans-serif;
+    font-family: "Dosis", sans-serif; /* herdei a Dosis dos jpgs que já estavam prontos com os títulos dos trabalhos */
     font-optical-sizing: auto;
     font-weight:400;
     font-style: normal;
@@ -35,8 +35,8 @@ body {
     font-size: 20px; 
     text-align: left;
     border: none;
-    background: white;
-    cursor: pointer;
+    background: white; /* como o highlight dos editores de textos, cria uma caixa do tamanho da fonte */
+    cursor: pointer; /* ajuda a saber que é botão */
 }
 
 .forward {
@@ -47,6 +47,6 @@ body {
     background: rgba(0, 0, 0, 0);
     color: rgba(0, 0, 0, 0);
     border: none;
-    padding: 20vh 20vw;
-    cursor: pointer;
+    padding: 20vh 20vw; /* esse tamanho dá um balanço bom e evita de cobrir os botões com os nomes dos trabalhos */
+    cursor: pointer; /* ajuda a saber onde é a área para passar para a próxima */
 }
