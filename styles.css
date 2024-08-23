@@ -8,7 +8,7 @@ body {
     height: 100vh;
     background-size: contain; /* cover fica bacana, mas contain funciona melhor em mobile */
     background-position: center center;
-    background-repeat: no-repeat; /* omitir isso deixa muito legal em desktop, mas em mobile podem aparecer até 6 imagens na telas ao mesmo tempo */
+    background-repeat: repeat-x; /* só repete horizontal, fica interessante em Desktop quando a janela é comprida, best compromise em mobile */
     transition: background-image 0.5s ease-in-out;
 }
 
