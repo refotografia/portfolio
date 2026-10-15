@@ -13,28 +13,27 @@
     <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="image-container">
-        </div>
+    <div class="image-container" role="img" aria-label="Portfólio"></div>
     <div class="text-links">
-        <button class="skip" id="gui">guilherme maranhão</button>
+        <button class="skip" id="gui" data-start="105">guilherme maranhão</button>
         <br>
-        <br><button class="skip" id="aridez">aridez</button> 
-        <br><button class="skip" id="antes">antes, durante e depois</button>
-        <br><button class="skip" id="japao">japão</button>
-        <br><button class="skip" id="transe">transe</button>
-        <br><button class="skip" id="travessia">travessia</button>
-        <br><button class="skip" id="casa">a casa da vó</button>
-        <br><button class="skip" id="maresias">maresias</button>
-        <br><button class="skip" id="unicos">únicos</button>
-        <br><button class="skip" id="aqui">aqui</button>
-        <br><button class="skip" id="pluracidades">pluracidades</button>
-        <br><button class="skip" id="plural">plural</button>
-        <br>
-        <br>
-        <br>
-        <br><button class="skip" id="txt" style="color: orangered; font-weight: 600;">click on the center of image to start ••>> </button>
+        <br><button class="skip" id="aridez" data-start="0">aridez</button> 
+        <br><button class="skip" id="antes" data-start="13">antes, durante e depois</button>
+        <br><button class="skip" id="japao" data-start="35">japão</button>
+        <br><button class="skip" id="transe" data-start="47">transe</button>
+        <br><button class="skip" id="travessia" data-start="53">travessia</button>
+        <br><button class="skip" id="casa" data-start="62">a casa da vó</button>
+        <br><button class="skip" id="maresias" data-start="69">maresias</button>
+        <br><button class="skip" id="unicos" data-start="74">únicos</button>
+        <br><button class="skip" id="aqui" data-start="83">aqui</button>
+        <br><button class="skip" id="pluracidades" data-start="92">pluracidades</button>
+        <br><button class="skip" id="plural" data-start="100">plural</button>
     </div>
-    <button class="forward" id="next-button">Next</button>
+    <div class="counter" aria-label="Navegação">
+        <button class="skip" id="prev-button" aria-label="Anterior">‹</button>
+        <span class="skip" id="count" aria-live="polite">1 / 106</span>
+        <button class="skip" id="next-button" aria-label="Próxima">›</button>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>

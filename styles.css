@@ -39,14 +39,38 @@ body {
     cursor: pointer; /* ajuda a saber que é botão */
 }
 
-.forward {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: rgba(0, 0, 0, 0);
-    color: rgba(0, 0, 0, 0);
-    border: none;
-    padding: 20vh 20vw; /* esse tamanho dá um balanço bom e evita de cobrir os botões com os nomes dos trabalhos */
-    cursor: pointer; /* ajuda a saber onde é a área para passar para a próxima */
+/* setas desenhadas como cursor: mostram para onde o clique leva */
+.image-container {
+    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Cpath d='M11 6l10 10-10 10' fill='none' stroke='white' stroke-width='5'/%3E%3Cpath d='M11 6l10 10-10 10' fill='none' stroke='black' stroke-width='2'/%3E%3C/svg%3E") 16 16, e-resize;
 }
+.image-container.back {
+    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Cpath d='M21 6L11 16l10 10' fill='none' stroke='white' stroke-width='5'/%3E%3Cpath d='M21 6L11 16l10 10' fill='none' stroke='black' stroke-width='2'/%3E%3C/svg%3E") 16 16, w-resize;
+}
+
+/* a lista não bloqueia cliques na imagem, só os botões recebem */
+.text-links { pointer-events: none; }
+.text-links .skip { pointer-events: auto; }
+
+/* série atual */
+.skip[aria-current] { font-weight: 700; }
+
+.skip:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+}
+
+/* contador no canto, mesma caixa branca dos títulos */
+.counter {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.counter .skip {
+    font-variant-numeric: tabular-nums;
+    padding: 2px 8px;
+}
+.counter button.skip { font-size: 26px; line-height: 1; padding: 0 10px 4px; }
+.counter span.skip { cursor: default; }
