@@ -74,3 +74,45 @@ body {
 }
 .counter button.skip { font-size: 26px; line-height: 1; padding: 0 10px 4px; }
 .counter span.skip { cursor: default; }
+
+/* telas baixas (celular deitado): a lista encolhe junto com a altura,
+   como acontecia antes quando o celular reduzia a página inteira */
+.text-links, .skip { font-size: min(20px, 3.6vh); }
+
+/* celular em pé: lista em cima, foto na largura toda, contador embaixo */
+@media (orientation: portrait) {
+    body {
+        overflow: auto;
+        min-height: 100vh;
+        min-height: 100dvh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        padding: 16px 0;
+        box-sizing: border-box;
+    }
+    .text-links {
+        order: 1;
+        position: static;
+        box-sizing: border-box;
+        padding: 0 12px;
+        line-height: 1.7;
+        pointer-events: auto;
+    }
+    .text-links, .skip { font-size: 19px; }
+    .image-container {
+        order: 2;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        background-repeat: no-repeat;
+        cursor: default;
+    }
+    .counter {
+        order: 3;
+        position: static;
+        justify-content: center;
+    }
+    .counter span.skip { font-size: 19px; }
+    .counter button.skip { font-size: 30px; padding: 2px 16px 6px; }
+}
